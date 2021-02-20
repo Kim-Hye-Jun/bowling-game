@@ -1,2 +1,0 @@
-# bowling-game
-bowling game
